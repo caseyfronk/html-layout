@@ -1,0 +1,36 @@
+* {
+    text-align:center;
+}
+
+body {
+    margin: 0
+}
+
+header {
+    text-align: center;
+    background-color: dimgray;
+    font-size: 50px;
+    color: white;
+    padding: 50px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    height: 1500px;
+}
+.main {
+    background-color: lightgray;;
+    width: 80%;
+}
+
+.footer {
+    height: 50px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: dimgray;
+    font-size: 40px;
+    color: white;
+}
+

@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    font-size: 100px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.container {
+    
+}
+
+.div-one {
+    background-color: lightcyan;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.div-two {
+    padding:40px;
+    background-color: lightblue;
+}
+
+.div-three {
+    padding:40px;
+    background-color: lightseagreen;
+
+}
+
+.div-four {
+    padding:40px;
+    background-color: lightgreen;
+}

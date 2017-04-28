@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+.container {
+    display: flex;
+    text-align: center;
+}
+.box-one {
+    background-color: deepskyblue;
+    width: 100%;
+    height: 100vh;
+}
+.box-two {
+    background-color: turquoise;
+    width: 100%;
+}
+.box-three {
+    background-color: greenyellow;
+    width: 100%;
+    position: relative;
+}
+.box-three img {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
